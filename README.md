@@ -1,1 +1,1 @@
-Its a Shitty Calculator in C
+A beginner in C
